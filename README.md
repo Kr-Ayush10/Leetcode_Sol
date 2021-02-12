@@ -1,2 +1,2 @@
 # Leetcode_Sol
-Leet code solution by ayush
+LeetCode Solution by Ayush
